@@ -1,0 +1,22 @@
+Current version: 2.5.0
+
+-Upgraded Automatically Solve Captcha
+-The Console Won't Close Automatically After Stop Anymore
+-Fix Some Issues
+-Remove Solve 105
+-Remove Fitur EM
+-Remove Fitur Judi
+
+Current version: 2.6.0
+-Solve Only VIP
+-Upgraded Automatically Solve Captcha
+-Close File if 3/5
+-New Display
+-New User-Agent
+-Simple the File
+-send dm Verif
+-Embed Webhook
+
+Current version: 2.7.0
+-New Display
+-2/1 Farming
